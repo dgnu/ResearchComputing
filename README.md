@@ -19,3 +19,4 @@ The course is based on material from many sources, including:
 - Format inspired by UvA Deep Learning course, 2023 [Phillip Lippe's amazing tutorial notebooks](https://uvadlc-notebooks.readthedocs.io/en/latest/).
 
 
+I am making test changes I want to see what's up with this. WEEEWOOOOWEEEWO
